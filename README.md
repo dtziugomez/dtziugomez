@@ -7,10 +7,9 @@ const background = {
   
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, Styled-Components],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  architecture: ["microservices", "event-driven", "design system pattern"]
 }
 ```
 
- I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
