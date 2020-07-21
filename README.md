@@ -4,9 +4,17 @@ Full Stack Developer
 
 ```javascript
 const background = {
-  code: [Javascript, HTML, CSS],
+ .NET: {
+  code: ["c#", "vb","ES6","HTML","CSS"],
+  tools: ["Devexpress", "linq", "bootstrap"],
+  architecture: ["mvc", "3 layer"]
+ },
+ JAVASCRIPT: {
+  code: [ES6, HTML, CSS],
   tools: [React, Redux, Node, Styled-Components],
   architecture: ["microservices", "event-driven", "design system pattern"]
+ }
+  
 }
 ```
 
