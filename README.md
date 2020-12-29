@@ -1,6 +1,6 @@
 ### Hi Im Deyvi Tziu
 
-Full Stack Developer
+Web Developer
 
 ```javascript
 const background = {
