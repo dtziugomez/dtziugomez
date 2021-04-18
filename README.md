@@ -1,4 +1,4 @@
-### Hi Im Deyvi Tziu
+### Hi I'm Deyvi Tziu
 
 Web Developer
 
