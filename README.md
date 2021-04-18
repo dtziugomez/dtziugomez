@@ -11,7 +11,7 @@ const background = {
  },
  JAVASCRIPT: {
   code: [ES6, HTML, CSS],
-  tools: [React, Redux, Node, Styled-Components],
+  tools: [React, Redux, Node, Styled-Components,vuejs],
   architecture: ["microservices", "event-driven", "design system pattern"]
  }
   
