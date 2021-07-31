@@ -1,6 +1,6 @@
 ### Hi I'm Deyvi Tziu
 
-Web Developer
+Dev & Digital Nomad.
 
 ```javascript
 const background = {
