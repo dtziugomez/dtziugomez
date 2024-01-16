@@ -5,14 +5,14 @@ Dev & Digital Nomad.
 ```javascript
 const background = {
  .NET: {
-  code: ["c#", "vb","ES6","HTML","CSS"],
-  tools: ["Devexpress", "linq", "bootstrap"],
-  architecture: ["mvc", "3 layer"]
+  code: ["c#", "vb","SQL"],
+  tools: ["Devexpress", "linq", "Visual studio"],
+  architecture: ["mvc", "3 layer", "solid"]
  },
  JAVASCRIPT: {
   code: [ES6, HTML, CSS],
   tools: [React, Redux, Node, Styled-Components,vuejs],
-  architecture: ["microservices", "event-driven", "design system pattern"]
+  architecture: ["mvc"]
  }
   
 }
