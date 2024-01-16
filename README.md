@@ -11,7 +11,7 @@ const background = {
  },
  JAVASCRIPT: {
   code: [ES6, HTML, CSS],
-  tools: [React, Redux, Node, Angular,Vuejs],
+  tools: [React, Redux, Node, Angular, Vuejs],
   architecture: ["mvc"]
  }
   
