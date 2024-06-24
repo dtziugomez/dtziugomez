@@ -1,9 +1,10 @@
-### Hi I'm Fer
+### Hi I'm Fernando
 
-Dev & Digital Nomad.
+Developer & Digital Nomad. I like programming with chsarp and reactjs or angularjs. 
 
 ```javascript
 const background = {
+
  .NET: {
   code: ["c#", "vb","SQL"],
   tools: ["Devexpress", "linq", "Visual studio"],
