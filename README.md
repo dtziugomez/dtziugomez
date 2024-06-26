@@ -1,6 +1,6 @@
 ### Hi I'm Fernando
 
-Developer & Digital Nomad. I like programming with chsarp and reactjs or angularjs. 
+Developer & Digital Nomad. I like programming with **chsarp** and **reactjs or angularjs**. 
 
 ```javascript
 const background = {
