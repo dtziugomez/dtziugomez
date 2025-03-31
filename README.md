@@ -1,6 +1,6 @@
 ### Hi I'm Fernando
 
-Developer & Digital Nomad. I like programming with **chsarp** and **reactjs or angularjs**. 
+Fullstack Developer with hands-on experience in frontend and backend development. Skilled in modern JavaScript frameworks such as Angular, Vue.js, and AngularJS, along with backend technologies like C#, SQL, CodeIgniter, and Web API development. Proven ability to analyze and resolve complex issues, develop new features, and enhance existing applications. Experienced in Agile methodologies, including impact analysis, design review, unit testing, and code collaboration. Passionate about continuous learning, innovation, and contributing to high-quality, scalable solutions in dynamic development environments. 
 
 ```javascript
 const background = {
