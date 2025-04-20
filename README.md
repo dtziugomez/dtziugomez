@@ -7,11 +7,11 @@ const background = {
 
  .NET: {
   code: ["c#", "vb","SQL"],
-  tools: ["Devexpress", "linq", "Visual studio"],
+  tools: ["Management Studio", Vscode, "Visual studio"],
   architecture: ["mvc", "3 layer", "solid"]
  },
  JAVASCRIPT: {
-  code: [ES6, HTML, CSS],
+  code: [ES6+, HTML, CSS],
   tools: [React, Redux, Node, Angular, Vuejs],
   architecture: ["mvc"]
  }
